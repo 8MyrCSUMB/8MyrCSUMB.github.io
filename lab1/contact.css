@@ -1,0 +1,30 @@
+h1 {
+    font-family: "Gill Sans", sans-serif;
+    margin-top: auto;
+    text-align: center;
+    background-color: rgb(220, 181, 131);
+}
+
+.menu:hover {
+    transform: scale(2);
+    color: red;
+}
+
+.form {}
+
+.menu {}
+
+form {
+    text-align: center;
+    background-color: rgb(190, 84, 84);
+    width: 50px;
+}
+
+div {
+    background-color: azure;
+}
+
+in footer {
+    text-align: center;
+    background-color: aliceblue;
+}
