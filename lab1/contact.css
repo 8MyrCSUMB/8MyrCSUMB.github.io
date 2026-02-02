@@ -52,3 +52,11 @@ p {
 #main {
     background-color: rgb(26, 26, 121);
 }
+
+footer {
+    background-color: black;
+}
+
+#footerp {
+    color: grey;
+}

@@ -43,3 +43,11 @@ p {
 #main {
     background-color: rgb(26, 26, 121);
 }
+
+#footerp {
+    color: grey;
+}
+
+footer {
+    background-color: black;
+}
