@@ -8,5 +8,38 @@
         "CRSV" 0.5,
         "ELSH" 0,
         "ELXP" 0;
-    color: black;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    display: flex;
+    justify-content: center;
+}
+
+#foot {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.nav:hover {
+    transform: scale(1.5);
+    color: red;
+}
+
+#main {
+    background-color: rgb(26, 26, 121);
 }

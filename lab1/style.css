@@ -3,17 +3,36 @@
     justify-content: center;
 }
 
-nav {
+.nav {
     display: flex;
     justify-content: center;
+    background-color: aqua;
 }
+
+.nav:hover {
+    transform: scale(1.5);
+    color: red;
+}
+
 
 h2 {
     display: flex;
     justify-content: center;
+    color: white;
 }
 
 h1 {
+    font-family: "Bitcount Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" 0,
+        "CRSV" 0.5,
+        "ELSH" 0,
+        "ELXP" 0;
+    color: white;
+    background-color: black;
     display: flex;
     justify-content: center;
 }
@@ -26,4 +45,13 @@ p {
 #otterlogo {
     display: flex;
     justify-content: center;
+}
+
+figure:hover {
+    transform: scale(1.2);
+    color: red;
+}
+
+#main {
+    background-color: rgb(26, 26, 121);
 }

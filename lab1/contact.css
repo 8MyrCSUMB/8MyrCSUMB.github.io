@@ -1,18 +1,30 @@
 h1 {
-    font-family: "Gill Sans", sans-serif;
-    margin-top: auto;
-    text-align: center;
-    background-color: rgb(220, 181, 131);
+    font-family: "Bitcount Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" 0,
+        "CRSV" 0.5,
+        "ELSH" 0,
+        "ELXP" 0;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
 }
 
-.menu:hover {
-    transform: scale(2);
+.nav {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.nav:hover {
+    transform: scale(1.5);
     color: red;
 }
 
-.form {}
-
-.menu {}
 
 form {
     text-align: center;
@@ -20,11 +32,23 @@ form {
     width: 50px;
 }
 
-div {
-    background-color: azure;
+
+p {
+    display: flex;
+    justify-content: center;
 }
 
-in footer {
+#foot {
+    display: flex;
+    justify-content: center;
+}
+
+#googleform {
+    display: flex;
     text-align: center;
-    background-color: aliceblue;
+    margin: 0 auto;
+}
+
+#main {
+    background-color: rgb(26, 26, 121);
 }
