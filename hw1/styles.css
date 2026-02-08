@@ -1,0 +1,93 @@
+body {
+    background-color: black;
+    border-color: greenyellow;
+    border-radius: 100px;
+    border-style: ridge
+}
+
+h1 {
+    color: grey;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: grey
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+#rowOne {
+    display: flex;
+    justify-content: center;
+}
+
+#rowTwo {
+    display: flex;
+    justify-content: center;
+}
+
+#text {
+    display: flex;
+    justify-content: center;
+}
+
+.pictures {}
+
+/* footer {
+    display: flex;
+    justify-content: center;
+} */
+
+#csumblogo {
+    display: flex;
+    justify-content: center;
+}
+
+#pfooter {
+    display: flex;
+    justify-content: center;
+}
+
+.down {
+    display: flex;
+    justify-content: center;
+}
+
+
+h1 {
+    font-family: "Bitcount Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" 0,
+        "CRSV" 0.5,
+        "ELSH" 0,
+        "ELXP" 0;
+}
+
+button {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: greenyellow;
+    border-color: greenyellow;
+    border-radius: 20px;
+    gap: 30px;
+    margin-right: 10px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
+
+hr {
+    width: 700px;
+    color: grey;
+}
