@@ -33,6 +33,10 @@ nav {
 #text {
     display: flex;
     justify-content: center;
+    max-width: 700px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 #csumblogo {
@@ -90,4 +94,8 @@ h2 {
 hr {
     width: 700px;
     color: grey;
+}
+
+img {
+    border-radius: 20px;
 }

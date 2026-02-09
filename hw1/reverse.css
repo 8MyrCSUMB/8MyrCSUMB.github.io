@@ -1,0 +1,115 @@
+body {
+    background-color: black;
+    border-color: greenyellow;
+    border-radius: 100px;
+    border-style: ridge
+}
+
+h1 {
+    color: grey;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: grey
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+#text {
+    display: flex;
+    justify-content: center;
+    max-width: 700px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#csumblogo {
+    display: flex;
+    justify-content: center;
+}
+
+#pfooter {
+    display: flex;
+    justify-content: center;
+}
+
+.down {
+    display: flex;
+    justify-content: center;
+}
+
+
+h1 {
+    font-family: "Bitcount Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" 0,
+        "CRSV" 0.5,
+        "ELSH" 0,
+        "ELXP" 0;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: greenyellow;
+    border: 1px solid #767676;
+    border-radius: 20px;
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.btn:hover {
+    background-color: green;
+    border-color: #333;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
+
+hr {
+    width: 700px;
+    color: grey;
+}
+
+#rowOne {
+    display: flex;
+    justify-content: center;
+}
+
+#rev {
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
+
+img {
+    border-radius: 20px;
+}
+
+strong {
+    margin-right: 5px;
+}
+
+.revTwo {
+    max-width: 700px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    color: grey;
+    line-height: 1.5;
+}
