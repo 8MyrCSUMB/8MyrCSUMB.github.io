@@ -1,0 +1,55 @@
+h1 {
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    color: black;
+}
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background: #1e427b;
+    color: rgb(122, 142, 173);
+    border-radius: 20px;
+}
+
+.theme {
+    margin: 40px auto;
+    padding: 20px;
+    max-width: 330px;
+    background: rgb(122, 142, 173);
+    border-radius: 20px;
+}
+
+input,
+button {
+    padding: 8px;
+    margin: 5px;
+}
+
+#win {
+    color: green;
+}
+
+#lost {
+    color: red;
+}
+
+#alreadyPlayed {
+    color: black;
+}
+
+hr {
+    width: 400px;
+    border: none;
+    background-color: rgb(122, 142, 173);
+    height: 0.1em;
+}
+
+img {
+    border-radius: 20px;
+    width: 373px;
+}

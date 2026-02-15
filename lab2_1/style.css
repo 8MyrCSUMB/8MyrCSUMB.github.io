@@ -1,0 +1,46 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+#input {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: grey;
+    color: black;
+    border: 10px;
+    border-style: dashed;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+hr {
+    width: 300px;
+}
+
+#alreadyPlayed {
+    background-color: darkgray;
+    border-radius: 20px;
+    display: flex;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#hed {
+    margin-top: 200px;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
